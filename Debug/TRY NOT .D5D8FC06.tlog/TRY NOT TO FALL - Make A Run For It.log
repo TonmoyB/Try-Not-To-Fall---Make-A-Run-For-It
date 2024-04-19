@@ -1,0 +1,47 @@
+﻿Build started 06-Jan-24 1:21:19 PM.
+     1>Project "E:\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt iMain.cpp
+         iMain.cpp
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(313): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(314): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(321): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(322): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(323): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(332): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(333): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(345): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(346): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(348): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(349): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(880): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(881): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(925): warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\stdlib.h(481) : see declaration of '_itoa'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(1243): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>e:\try not to fall - make a run for it\try not to fall - make a run for it\imain.cpp(1245): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\visual studio\vc\include\string.h(112) : see declaration of 'strcpy'
+       Link:
+         F:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe" /INCREMENTAL /NOLOGO bass.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.lib" /MACHINE:X86 Debug\iMain.obj
+         TRY NOT TO FALL - Make A Run For It.vcxproj -> E:\TRY NOT TO FALL - Make A Run For It\Debug\TRY NOT TO FALL - Make A Run For It.exe
+     1>Done Building Project "E:\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It\TRY NOT TO FALL - Make A Run For It.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.88
